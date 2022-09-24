@@ -3,7 +3,7 @@ Neste repositório aprenderei a utilizar os comandos básicos do github, assim c
 
 ## Comandos básicos utilizado no git
 ### Repositório remoto
-- ***Git Remote***: *Direciona um repositório remoto onde vou será enviado o arquivo*
+- ***Git Remote***: *Direciona um repositório remoto onde será enviado o arquivo*
 - ***Git Push***: *Envia as alterações do arquivo*
 - ***Git Pull***: *Recebe atualizações do repositório remoto e aplica em seu local*
 
