@@ -8,10 +8,10 @@ Neste repositório aprenderei a utilizar os comandos básicos do github, assim c
 - Git Pull: *Recebe atualizações do repositório remoto e aplica em seu local*
 
 ### Repositório local
-- Git Init: *Inicia o repositório local*
 - Git add: *Adiciona as alterações de um arquivo no commit*
 - Git commit: *Cria uma identificação para o Autor definindo um ponto de verificação no processo de desenvolvimento*
 - Git Config: *Modifica arquivos de texto de configuração como e-mail, nome de usuário e  editor*
+- Git Log: *Explora o histórico de um repositório*S
 
 ### Branchs
 - Git Branch: *Faz as alterações sem alterar o arquivo original*
